@@ -35,6 +35,10 @@ html,
 body {
   overflow-x: hidden;
 }
+.no-scroll {
+  overflow: hidden;
+  height: 100vh;
+}
 * {
   padding: 0;
   margin: 0;
