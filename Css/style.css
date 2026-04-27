@@ -745,10 +745,10 @@ nav,
     width: 80%;
   }
   .nav-menu {
-    /* padding-top: 40px; */
+    padding-top: 60px;
   }
   .nav-items {
-    margin-bottom: 15px;
+    margin-bottom: 15px !important;
   }
   .result-card > .num-cont > h5 > span {
     font-size: 20px;
