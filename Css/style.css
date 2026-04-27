@@ -703,9 +703,9 @@ nav,
     width: 50%;
     margin: 0 auto;
   }
-  .foot-col div {
+  .foot-col .foot-title {
     text-align: center;
-    margin: 0 auto;
+    /* margin: 0 auto; */
   }
   .foot-col .foot-icon {
     justify-content: center;
@@ -743,6 +743,12 @@ nav,
   }
   .nav-menu {
     width: 80%;
+  }
+  .nav-menu {
+    /* padding-top: 40px; */
+  }
+  .nav-items {
+    margin-bottom: 15px;
   }
   .result-card > .num-cont > h5 > span {
     font-size: 20px;
